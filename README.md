@@ -1,1 +1,1 @@
-# DL_homework_6
+https://govbar.github.io/DL_homework_6/
